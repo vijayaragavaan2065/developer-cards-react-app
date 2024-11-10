@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.863cafae.chunk.css",
-    "main.js": "/static/js/main.7798de93.chunk.js",
-    "main.js.map": "/static/js/main.7798de93.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.753a4e3b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.753a4e3b.js.map",
-    "static/js/2.13b465a4.chunk.js": "/static/js/2.13b465a4.chunk.js",
-    "static/js/2.13b465a4.chunk.js.map": "/static/js/2.13b465a4.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.863cafae.chunk.css.map": "/static/css/main.863cafae.chunk.css.map",
-    "static/js/2.13b465a4.chunk.js.LICENSE.txt": "/static/js/2.13b465a4.chunk.js.LICENSE.txt"
+    "main.css": "/developer-cards-react-app/static/css/main.863cafae.chunk.css",
+    "main.js": "/developer-cards-react-app/static/js/main.7798de93.chunk.js",
+    "main.js.map": "/developer-cards-react-app/static/js/main.7798de93.chunk.js.map",
+    "runtime-main.js": "/developer-cards-react-app/static/js/runtime-main.a28eba15.js",
+    "runtime-main.js.map": "/developer-cards-react-app/static/js/runtime-main.a28eba15.js.map",
+    "static/js/2.13b465a4.chunk.js": "/developer-cards-react-app/static/js/2.13b465a4.chunk.js",
+    "static/js/2.13b465a4.chunk.js.map": "/developer-cards-react-app/static/js/2.13b465a4.chunk.js.map",
+    "index.html": "/developer-cards-react-app/index.html",
+    "static/css/main.863cafae.chunk.css.map": "/developer-cards-react-app/static/css/main.863cafae.chunk.css.map",
+    "static/js/2.13b465a4.chunk.js.LICENSE.txt": "/developer-cards-react-app/static/js/2.13b465a4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.753a4e3b.js",
+    "static/js/runtime-main.a28eba15.js",
     "static/js/2.13b465a4.chunk.js",
     "static/css/main.863cafae.chunk.css",
     "static/js/main.7798de93.chunk.js"
