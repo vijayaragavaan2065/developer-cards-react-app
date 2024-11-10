@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/developer-cards-react-app/static/css/main.863cafae.chunk.css",
-    "main.js": "/developer-cards-react-app/static/js/main.7798de93.chunk.js",
-    "main.js.map": "/developer-cards-react-app/static/js/main.7798de93.chunk.js.map",
+    "main.js": "/developer-cards-react-app/static/js/main.42dc0d0e.chunk.js",
+    "main.js.map": "/developer-cards-react-app/static/js/main.42dc0d0e.chunk.js.map",
     "runtime-main.js": "/developer-cards-react-app/static/js/runtime-main.a28eba15.js",
     "runtime-main.js.map": "/developer-cards-react-app/static/js/runtime-main.a28eba15.js.map",
     "static/js/2.13b465a4.chunk.js": "/developer-cards-react-app/static/js/2.13b465a4.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.a28eba15.js",
     "static/js/2.13b465a4.chunk.js",
     "static/css/main.863cafae.chunk.css",
-    "static/js/main.7798de93.chunk.js"
+    "static/js/main.42dc0d0e.chunk.js"
   ]
 }
