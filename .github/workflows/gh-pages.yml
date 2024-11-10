@@ -1,0 +1,27 @@
+name: deploy react app
+on: push
+permissions:
+  contents: write
+jobs:
+  deploy-react-app:
+    runs-on: ubuntu-latest
+    steps:
+      - name: clone-repository
+        uses: actions/checkout@v4
+
+      - name: install npm packages
+        run: npm install
+
+      - name: npm run build
+        env:
+          NODE_OPTIONS: --openssl-legacy-provider
+        run: npm run build
+
+      - name: test the application
+        run: npm run test -- --passWithNoTests
+
+      - name: deploy to github pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
